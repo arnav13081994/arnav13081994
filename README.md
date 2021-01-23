@@ -25,7 +25,6 @@
 <!-- [![Website](https://img.shields.io/website?label=arnav13081994.com&style=for-the-badge&url=https%3A%2F%2Farnav13081994.com)](https://arnav13081994.com) -->
 
 ---
-<br />
 
 ## I'm a Django Developer and a kubernetes operator.
 <br />
@@ -35,7 +34,6 @@
 - 🤖 Love to automate all things in my life (Part of this README is also automated 😅 )
 - 🥅 2020 Goals: Level up my Django and kubernetes knowledge and make my projects more automated and application code more concise and understandeable.
 
-<br />
 <br />
 
 ---
