@@ -1,9 +1,10 @@
 ### Hey! I'm Arnav  👋
 
 <!-- [<img align="left" alt="" width="22px" src="" />][website] -->
-[<img align="left" alt="arnav13081994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="arnav13081994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+<br />
 <br />
 <img alt="arnav13081994's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav13081994&layout=compact&theme=dracula" />
 <br />
