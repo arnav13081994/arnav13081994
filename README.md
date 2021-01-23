@@ -1,7 +1,7 @@
 ### Hey! I'm Arnav  👋
 
-<!-- [<img align="left" alt="" width="22px" src="" />][website] -->
-[<img align="left" alt="arnav13081994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img  alt="" width="22px" src="" />][website] -->
+[<img  alt="arnav13081994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -43,14 +43,14 @@
 ## Languages and tools
 <br />
 
-<img align="left" alt="Django" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/django/django.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Docker Swarm" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="Ansible" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/ansible/ansible.png" />
-<img align="left" alt="Github Actions" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/actions/actions.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Redis" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/redis/redis.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/postgresql/postgresql.png" />
+<img alt="Django" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/django/django.png" />
+<img alt="Kubernetes" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/kubernetes/kubernetes.png" />
+<img  alt="Docker Swarm" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/docker/docker.png" />
+<img  alt="Ansible" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/ansible/ansible.png" />
+<img  alt="Github Actions" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/actions/actions.png" />
+<img  alt="JavaScript" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/javascript/javascript.png" />
+<img  alt="Redis" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/redis/redis.png" />
+<img  alt="PostgreSQL" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/postgresql/postgresql.png" />
 
 <br />
 <br />
