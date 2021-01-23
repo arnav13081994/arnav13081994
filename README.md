@@ -59,17 +59,18 @@
 
 <br />
 
-<img align="left" alt="arnav13081994's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnav13081994&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
-<br />
+<img alt="arnav13081994's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnav13081994&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 
+---
 
+### :zap: Recent Activity
 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+---
 
 <!-- [website]: https://arnav13081994.com -->
 [linkedin]: https://www.linkedin.com/in/arnav-choudhury-88142a109/
