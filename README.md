@@ -66,10 +66,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3029](https://github.com/pydanny/cookiecutter-django/issues/3029) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-2. 💪 Opened PR [#3042](https://github.com/pydanny/cookiecutter-django/pull/3042) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-3. 💪 Opened PR [#3041](https://github.com/pydanny/cookiecutter-django/pull/3041) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-4. 🗣 Commented on [#141](https://github.com/feldroy/two-scoops-of-django-3.x/issues/141) in [feldroy/two-scoops-of-django-3.x](https://github.com/feldroy/two-scoops-of-django-3.x)
+1. 🗣 Commented on [#3042](https://github.com/pydanny/cookiecutter-django/issues/3042) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+2. 🗣 Commented on [#3029](https://github.com/pydanny/cookiecutter-django/issues/3029) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+3. 💪 Opened PR [#3042](https://github.com/pydanny/cookiecutter-django/pull/3042) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+4. 💪 Opened PR [#3041](https://github.com/pydanny/cookiecutter-django/pull/3041) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
 <!--END_SECTION:activity-->
 
 ---
