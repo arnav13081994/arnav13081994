@@ -66,9 +66,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3066](https://github.com/pydanny/cookiecutter-django/pull/3066) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-2. 🗣 Commented on [#3042](https://github.com/pydanny/cookiecutter-django/issues/3042) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-3. 🗣 Commented on [#3042](https://github.com/pydanny/cookiecutter-django/issues/3042) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+1. 🗣 Commented on [#2815](https://github.com/pydanny/cookiecutter-django/issues/2815) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+2. 🗣 Commented on [#2815](https://github.com/pydanny/cookiecutter-django/issues/2815) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
+3. 💪 Opened PR [#3066](https://github.com/pydanny/cookiecutter-django/pull/3066) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
 4. 🗣 Commented on [#3042](https://github.com/pydanny/cookiecutter-django/issues/3042) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
 <!--END_SECTION:activity-->
 
