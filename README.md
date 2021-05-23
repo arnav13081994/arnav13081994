@@ -66,10 +66,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1355](https://github.com/dj-stripe/dj-stripe/issues/1355) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 💪 Opened PR [#1355](https://github.com/dj-stripe/dj-stripe/pull/1355) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#2857](https://github.com/pennersr/django-allauth/issues/2857) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
-4. 🗣 Commented on [#2770](https://github.com/pennersr/django-allauth/issues/2770) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+1. 🗣 Commented on [#1356](https://github.com/dj-stripe/dj-stripe/issues/1356) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1337](https://github.com/dj-stripe/dj-stripe/issues/1337) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 💪 Opened PR [#1356](https://github.com/dj-stripe/dj-stripe/pull/1356) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1355](https://github.com/dj-stripe/dj-stripe/issues/1355) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
