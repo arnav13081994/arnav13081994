@@ -66,10 +66,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1367](https://github.com/dj-stripe/dj-stripe/pull/1367) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🗣 Commented on [#1364](https://github.com/dj-stripe/dj-stripe/issues/1364) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 💪 Opened PR [#3208](https://github.com/pydanny/cookiecutter-django/pull/3208) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-4. 💪 Opened PR [#1364](https://github.com/dj-stripe/dj-stripe/pull/1364) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 💪 Opened PR [#1368](https://github.com/dj-stripe/dj-stripe/pull/1368) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 💪 Opened PR [#1367](https://github.com/dj-stripe/dj-stripe/pull/1367) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1364](https://github.com/dj-stripe/dj-stripe/issues/1364) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 💪 Opened PR [#3208](https://github.com/pydanny/cookiecutter-django/pull/3208) in [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
 <!--END_SECTION:activity-->
 
 ---
