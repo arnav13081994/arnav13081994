@@ -1,7 +1,5 @@
 ### Hey! I'm Arnav  👋
 
-<!-- [<img align="left" alt="" width="22px" src="" />][website] -->
-[<img alt="arnav13081994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -74,7 +72,5 @@
 
 ---
 
-<!-- [website]: https://arnav13081994.com -->
-[linkedin]: https://www.linkedin.com/in/arnav-choudhury-88142a109/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
