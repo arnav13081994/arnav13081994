@@ -64,10 +64,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1429](https://github.com/dj-stripe/dj-stripe/pull/1429) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 💪 Opened PR [#1428](https://github.com/dj-stripe/dj-stripe/pull/1428) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. ❗️ Closed issue [#1254](https://github.com/dj-stripe/dj-stripe/issues/1254) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1254](https://github.com/dj-stripe/dj-stripe/issues/1254) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 💪 Opened PR [#1430](https://github.com/dj-stripe/dj-stripe/pull/1430) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 💪 Opened PR [#1429](https://github.com/dj-stripe/dj-stripe/pull/1429) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 💪 Opened PR [#1428](https://github.com/dj-stripe/dj-stripe/pull/1428) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. ❗️ Closed issue [#1254](https://github.com/dj-stripe/dj-stripe/issues/1254) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
