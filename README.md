@@ -25,13 +25,12 @@
 
 ---
 
-## I'm a Django Developer and a kubernetes operator.
+## I'm a Django Developer and a Kubernetes operator. Available for freelance work.
 <br />
 
-- 🌱 I’m currently focussing on diving deep into Django and kubernetes.
+- 🌱 I’m currently focussing on diving deep into Django and Kubernetes.
 - 🔭 Ardently believe in doing few things but doing them very, very well.
 - 🤖 Love to automate all things in my life (Part of this README is also automated 😅 )
-- 🥅 2020 Goals: Level up my Django and kubernetes knowledge and make my projects more automated and application code more concise and understandeable.
 
 <br />
 
