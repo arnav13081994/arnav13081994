@@ -25,7 +25,7 @@
 
 ---
 
-## I'm a Django Developer and a Kubernetes operator. Available for freelance work.
+## I'm a Freelance DevOps and Full Stack Django Developer. Available for work.
 <br />
 
 - 🌱 I’m currently focussing on diving deep into Django and Kubernetes.
