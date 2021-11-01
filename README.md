@@ -38,14 +38,17 @@
 
 ## Languages and tools
 
+<img align="left" alt="Python" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/django/django.png" />
+<img align="left" alt="Helm" width="26px" src="https://avatars.githubusercontent.com/u/15859888?s=200&v=4" />
 <img align="left" alt="Kubernetes" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/github/explore/blob/main/topics/aws/aws.png" />
 <img align="left" alt="Docker Swarm" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="Ansible" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/ansible/ansible.png" />
 <img align="left" alt="Github Actions" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/actions/actions.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Redis" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/redis/redis.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://gitcdn.link/repo/github/explore/master/topics/javascript/javascript.png" />
 
 <br />
 <br />
