@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1481](https://github.com/dj-stripe/dj-stripe/issues/1481) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🗣 Commented on [#1481](https://github.com/dj-stripe/dj-stripe/issues/1481) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 💪 Opened PR [#21](https://github.com/arnav13081994/cookiecutter-django/pull/21) in [arnav13081994/cookiecutter-django](https://github.com/arnav13081994/cookiecutter-django)
-4. 🎉 Merged PR [#4](https://github.com/arnav13081994/dj-stripe/pull/4) in [arnav13081994/dj-stripe](https://github.com/arnav13081994/dj-stripe)
+1. 🗣 Commented on [#1471](https://github.com/dj-stripe/dj-stripe/issues/1471) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. ❗️ Closed issue [#1481](https://github.com/dj-stripe/dj-stripe/issues/1481) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1481](https://github.com/dj-stripe/dj-stripe/issues/1481) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 💪 Opened PR [#21](https://github.com/arnav13081994/cookiecutter-django/pull/21) in [arnav13081994/cookiecutter-django](https://github.com/arnav13081994/cookiecutter-django)
 <!--END_SECTION:activity-->
 
 ---
