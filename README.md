@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1445](https://github.com/dj-stripe/dj-stripe/issues/1445) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🗣 Commented on [#1495](https://github.com/dj-stripe/dj-stripe/issues/1495) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1495](https://github.com/dj-stripe/dj-stripe/issues/1495) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1495](https://github.com/dj-stripe/dj-stripe/issues/1495) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 🗣 Commented on [#1482](https://github.com/dj-stripe/dj-stripe/issues/1482) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1471](https://github.com/dj-stripe/dj-stripe/issues/1471) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1498](https://github.com/dj-stripe/dj-stripe/issues/1498) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1502](https://github.com/dj-stripe/dj-stripe/issues/1502) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
