@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2836](https://github.com/cookiecutter/cookiecutter-django/issues/2836) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
-2. 🗣 Commented on [#1520](https://github.com/dj-stripe/dj-stripe/issues/1520) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1520](https://github.com/dj-stripe/dj-stripe/issues/1520) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1002](https://github.com/dj-stripe/dj-stripe/issues/1002) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 💪 Opened PR [#1525](https://github.com/dj-stripe/dj-stripe/pull/1525) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 💪 Opened PR [#1524](https://github.com/dj-stripe/dj-stripe/pull/1524) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1522](https://github.com/dj-stripe/dj-stripe/issues/1522) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. ❗️ Closed issue [#1522](https://github.com/dj-stripe/dj-stripe/issues/1522) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
