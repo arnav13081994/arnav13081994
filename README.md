@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1743](https://github.com/dj-stripe/dj-stripe/issues/1743) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. ❗️ Opened issue [#2149](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/2149) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-3. 🗣 Commented on [#1738](https://github.com/dj-stripe/dj-stripe/issues/1738) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. ❌ Closed PR [#1740](https://github.com/dj-stripe/dj-stripe/pull/1740) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. ❗️ Opened issue [#12](https://github.com/clowdhaus/eks-reference-architecture/issues/12) in [clowdhaus/eks-reference-architecture](https://github.com/clowdhaus/eks-reference-architecture)
+2. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1743](https://github.com/dj-stripe/dj-stripe/issues/1743) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. ❗️ Opened issue [#2149](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/2149) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
 <!--END_SECTION:activity-->
 
 ---
