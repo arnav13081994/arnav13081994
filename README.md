@@ -62,9 +62,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. ❗️ Opened issue [#12](https://github.com/clowdhaus/eks-reference-architecture/issues/12) in [clowdhaus/eks-reference-architecture](https://github.com/clowdhaus/eks-reference-architecture)
-3. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1743](https://github.com/dj-stripe/dj-stripe/issues/1743) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. ❗️ Opened issue [#12](https://github.com/clowdhaus/eks-reference-architecture/issues/12) in [clowdhaus/eks-reference-architecture](https://github.com/clowdhaus/eks-reference-architecture)
+4. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
