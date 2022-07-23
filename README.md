@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Open-network-for-digital-commerce/Pre-production/issues/4) in [Open-network-for-digital-commerce/Pre-production](https://github.com/Open-network-for-digital-commerce/Pre-production)
-2. 💪 Opened PR [#1758](https://github.com/dj-stripe/dj-stripe/pull/1758) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 💪 Opened PR [#1757](https://github.com/dj-stripe/dj-stripe/pull/1757) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 🗣 Commented on [#1760](https://github.com/dj-stripe/dj-stripe/issues/1760) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 💪 Opened PR [#1761](https://github.com/dj-stripe/dj-stripe/pull/1761) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 💪 Opened PR [#1760](https://github.com/dj-stripe/dj-stripe/pull/1760) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 💪 Opened PR [#1759](https://github.com/dj-stripe/dj-stripe/pull/1759) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
