@@ -63,8 +63,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1766](https://github.com/dj-stripe/dj-stripe/issues/1766) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 2. 🗣 Commented on [#1766](https://github.com/dj-stripe/dj-stripe/issues/1766) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1764](https://github.com/dj-stripe/dj-stripe/issues/1764) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1763](https://github.com/dj-stripe/dj-stripe/issues/1763) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1766](https://github.com/dj-stripe/dj-stripe/issues/1766) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1764](https://github.com/dj-stripe/dj-stripe/issues/1764) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
