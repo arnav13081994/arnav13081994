@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1765](https://github.com/dj-stripe/dj-stripe/pull/1765) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 💪 Opened PR [#1789](https://github.com/dj-stripe/dj-stripe/pull/1789) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 💪 Opened PR [#1788](https://github.com/dj-stripe/dj-stripe/pull/1788) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1744](https://github.com/dj-stripe/dj-stripe/issues/1744) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 🗣 Commented on [#1793](https://github.com/dj-stripe/dj-stripe/issues/1793) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1793](https://github.com/dj-stripe/dj-stripe/issues/1793) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 💪 Opened PR [#1794](https://github.com/dj-stripe/dj-stripe/pull/1794) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 💪 Opened PR [#511](https://github.com/chainstack/docs/pull/511) in [chainstack/docs](https://github.com/chainstack/docs)
 <!--END_SECTION:activity-->
 
 ---
