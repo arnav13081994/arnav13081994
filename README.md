@@ -61,9 +61,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1366](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/1366) in [Snowflake-Labs/terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
+1. 💪 Opened PR [#1849](https://github.com/dj-stripe/dj-stripe/pull/1849) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 2. 🗣 Commented on [#1366](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/1366) in [Snowflake-Labs/terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
-3. 🗣 Commented on [#1838](https://github.com/dj-stripe/dj-stripe/issues/1838) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1366](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/1366) in [Snowflake-Labs/terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 4. 🗣 Commented on [#1838](https://github.com/dj-stripe/dj-stripe/issues/1838) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
