@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1854](https://github.com/dj-stripe/dj-stripe/issues/1854) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 💪 Opened PR [#1853](https://github.com/dj-stripe/dj-stripe/pull/1853) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 💪 Opened PR [#1849](https://github.com/dj-stripe/dj-stripe/pull/1849) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1366](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/1366) in [Snowflake-Labs/terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
+1. ❗️ Closed issue [#1829](https://github.com/dj-stripe/dj-stripe/issues/1829) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1829](https://github.com/dj-stripe/dj-stripe/issues/1829) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 💪 Opened PR [#1858](https://github.com/dj-stripe/dj-stripe/pull/1858) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 💪 Opened PR [#1857](https://github.com/dj-stripe/dj-stripe/pull/1857) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
