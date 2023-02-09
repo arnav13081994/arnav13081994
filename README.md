@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3318](https://github.com/graphprotocol/graph-node/issues/3318) in [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node)
-2. ❗️ Opened issue [#1889](https://github.com/dj-stripe/dj-stripe/issues/1889) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1751](https://github.com/dj-stripe/dj-stripe/issues/1751) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1639](https://github.com/dj-stripe/dj-stripe/issues/1639) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 🗣 Commented on [#1755](https://github.com/dj-stripe/dj-stripe/issues/1755) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1754](https://github.com/dj-stripe/dj-stripe/issues/1754) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 💪 Opened PR [#4350](https://github.com/graphprotocol/graph-node/pull/4350) in [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node)
+4. 🗣 Commented on [#3318](https://github.com/graphprotocol/graph-node/issues/3318) in [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node)
 <!--END_SECTION:activity-->
 
 ---
