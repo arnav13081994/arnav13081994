@@ -62,9 +62,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1908](https://github.com/dj-stripe/dj-stripe/issues/1908) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🗣 Commented on [#1900](https://github.com/dj-stripe/dj-stripe/issues/1900) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1908](https://github.com/dj-stripe/dj-stripe/issues/1908) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1640](https://github.com/dj-stripe/dj-stripe/issues/1640) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1908](https://github.com/dj-stripe/dj-stripe/issues/1908) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🗣 Commented on [#1900](https://github.com/dj-stripe/dj-stripe/issues/1900) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1908](https://github.com/dj-stripe/dj-stripe/issues/1908) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
