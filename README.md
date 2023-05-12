@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1930](https://github.com/dj-stripe/dj-stripe/issues/1930) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🗣 Commented on [#1930](https://github.com/dj-stripe/dj-stripe/issues/1930) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 💪 Opened PR [#1936](https://github.com/dj-stripe/dj-stripe/pull/1936) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 💪 Opened PR [#1935](https://github.com/dj-stripe/dj-stripe/pull/1935) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 3. 🗣 Commented on [#1930](https://github.com/dj-stripe/dj-stripe/issues/1930) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1919](https://github.com/dj-stripe/dj-stripe/issues/1919) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1930](https://github.com/dj-stripe/dj-stripe/issues/1930) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
