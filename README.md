@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/arnav13081994/saltstack-test/pull/11) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
-2. 💪 Opened PR [#11](https://github.com/arnav13081994/saltstack-test/pull/11) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
-3. 🎉 Merged PR [#10](https://github.com/arnav13081994/saltstack-test/pull/10) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
-4. 💪 Opened PR [#10](https://github.com/arnav13081994/saltstack-test/pull/10) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
+1. 💪 Opened PR [#1691](https://github.com/aquasecurity/cloudsploit/pull/1691) in [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit)
+2. 🎉 Merged PR [#11](https://github.com/arnav13081994/saltstack-test/pull/11) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
+3. 💪 Opened PR [#11](https://github.com/arnav13081994/saltstack-test/pull/11) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
+4. 🎉 Merged PR [#10](https://github.com/arnav13081994/saltstack-test/pull/10) in [arnav13081994/saltstack-test](https://github.com/arnav13081994/saltstack-test)
 <!--END_SECTION:activity-->
 
 ---
