@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1493](https://github.com/dj-stripe/dj-stripe/pull/1493#issuecomment-1743177263) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🗣 Commented on [#1996](https://github.com/dj-stripe/dj-stripe/pull/1996#issuecomment-1743164784) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1493](https://github.com/dj-stripe/dj-stripe/pull/1493#issuecomment-1742849611) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#1958](https://github.com/dj-stripe/dj-stripe/issues/1958#issuecomment-1742834700) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 💪 Opened PR [#1997](https://github.com/dj-stripe/dj-stripe/pull/1997) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#1993](https://github.com/dj-stripe/dj-stripe/pull/1993#issuecomment-1745175929) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. ❌ Closed PR [#1981](https://github.com/dj-stripe/dj-stripe/pull/1981) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1981](https://github.com/dj-stripe/dj-stripe/pull/1981#issuecomment-1745156469) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
