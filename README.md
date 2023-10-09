@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/accuknox/cloudsploit/releases/tag/v0.0.2) in [accuknox/cloudsploit](https://github.com/accuknox/cloudsploit)
-2. 💪 Opened PR [#1997](https://github.com/dj-stripe/dj-stripe/pull/1997) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#1993](https://github.com/dj-stripe/dj-stripe/pull/1993#issuecomment-1745175929) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. ❌ Closed PR [#1981](https://github.com/dj-stripe/dj-stripe/pull/1981) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. 🗣 Commented on [#1762](https://github.com/dj-stripe/dj-stripe/issues/1762#issuecomment-1752024022) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🔒 Closed issue [#1762](https://github.com/dj-stripe/dj-stripe/issues/1762) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🔒 Closed issue [#1988](https://github.com/dj-stripe/dj-stripe/issues/1988) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+4. 🗣 Commented on [#1988](https://github.com/dj-stripe/dj-stripe/issues/1988#issuecomment-1752023587) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 ---
