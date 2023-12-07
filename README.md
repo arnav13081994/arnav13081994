@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2016](https://github.com/dj-stripe/dj-stripe/issues/2016#issuecomment-1835703222) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-2. 🚀 Published release [v0.1.2](https://github.com/arnav13081994/django-neomodel/releases/tag/v0.1.2) in [arnav13081994/django-neomodel](https://github.com/arnav13081994/django-neomodel)
-3. 🚀 Published release [v0.1.2](https://github.com/arnav13081994/django-neomodel/releases/tag/0.1.2) in [arnav13081994/django-neomodel](https://github.com/arnav13081994/django-neomodel)
-4. 🎉 Merged PR [#1](https://github.com/arnav13081994/django-neomodel/pull/1) in [arnav13081994/django-neomodel](https://github.com/arnav13081994/django-neomodel)
+1. 🗣 Commented on [#2001](https://github.com/dj-stripe/dj-stripe/issues/2001#issuecomment-1843076562) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+2. 🗣 Commented on [#2016](https://github.com/dj-stripe/dj-stripe/issues/2016#issuecomment-1835703222) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+3. 🚀 Published release [v0.1.2](https://github.com/arnav13081994/django-neomodel/releases/tag/v0.1.2) in [arnav13081994/django-neomodel](https://github.com/arnav13081994/django-neomodel)
+4. 🚀 Published release [v0.1.2](https://github.com/arnav13081994/django-neomodel/releases/tag/0.1.2) in [arnav13081994/django-neomodel](https://github.com/arnav13081994/django-neomodel)
 <!--END_SECTION:activity-->
 
 ---
