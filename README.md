@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/accuknox/cloudsploit/releases/tag/v0.0.3) in [accuknox/cloudsploit](https://github.com/accuknox/cloudsploit)
-2. 💪 Opened PR [#2027](https://github.com/dj-stripe/dj-stripe/pull/2027) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-3. 🗣 Commented on [#2017](https://github.com/dj-stripe/dj-stripe/pull/2017#issuecomment-1945631833) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-4. 🗣 Commented on [#2023](https://github.com/dj-stripe/dj-stripe/issues/2023#issuecomment-1913024027) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
+1. ❌ Closed PR [#4973](https://github.com/cookiecutter/cookiecutter-django/pull/4973) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+2. 💪 Opened PR [#4973](https://github.com/cookiecutter/cookiecutter-django/pull/4973) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+3. 💪 Opened PR [#4972](https://github.com/cookiecutter/cookiecutter-django/pull/4972) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+4. 🚀 Published release [v0.0.3](https://github.com/accuknox/cloudsploit/releases/tag/v0.0.3) in [accuknox/cloudsploit](https://github.com/accuknox/cloudsploit)
 <!--END_SECTION:activity-->
 
 ---
