@@ -61,10 +61,10 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4973](https://github.com/cookiecutter/cookiecutter-django/pull/4973) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
-2. 💪 Opened PR [#4973](https://github.com/cookiecutter/cookiecutter-django/pull/4973) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
-3. 💪 Opened PR [#4972](https://github.com/cookiecutter/cookiecutter-django/pull/4972) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
-4. 🚀 Published release [v0.0.3](https://github.com/accuknox/cloudsploit/releases/tag/v0.0.3) in [accuknox/cloudsploit](https://github.com/accuknox/cloudsploit)
+1. 🎉 Merged PR [#56](https://github.com/arnav13081994/cookiecutter-django/pull/56) in [arnav13081994/cookiecutter-django](https://github.com/arnav13081994/cookiecutter-django)
+2. 💪 Opened PR [#56](https://github.com/arnav13081994/cookiecutter-django/pull/56) in [arnav13081994/cookiecutter-django](https://github.com/arnav13081994/cookiecutter-django)
+3. 💪 Opened PR [#5012](https://github.com/cookiecutter/cookiecutter-django/pull/5012) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
+4. ❌ Closed PR [#4973](https://github.com/cookiecutter/cookiecutter-django/pull/4973) in [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
 <!--END_SECTION:activity-->
 
 ---
