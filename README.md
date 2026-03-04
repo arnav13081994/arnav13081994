@@ -25,7 +25,7 @@
 
 ---
 
-## I'm a Freelance DevOps and Full Stack Django Developer. Available for work.
+## I run a Boutique Software Outsourcing Firm [Falistro](https://falistro.com). Always Available for work.
 <br />
 
 - 🌱 I’m currently focussing on diving deep into Django and Kubernetes.
